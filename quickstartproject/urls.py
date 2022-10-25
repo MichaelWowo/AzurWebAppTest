@@ -18,5 +18,6 @@ from django.urls import include, path
 
 urlpatterns = [
     path('', include('hello_azure.urls')),
+    path('.well-known/', include('didConfiguration.urls')),
     path('admin/', admin.site.urls),
 ]

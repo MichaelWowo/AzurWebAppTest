@@ -1,0 +1,10 @@
+[
+  {
+    "model": "didConfiguration.didConfiguration",
+    "pk": 1,
+    "fields": {
+      "context": "www.credenceid.context.com"
+    }
+  }
+]
+
